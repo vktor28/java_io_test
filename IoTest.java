@@ -22,7 +22,7 @@ public class IoTest {
         int edad = teclado.nextInt();
 
         teclado.close(); //cirra la escucha
-        System.out.println("Te llamas " + nombre + apellido + " y tienes " + edad + " años");
+        System.out.println("Te llamas " + nombre + " " + apellido + " y tienes " + edad + " años");
     }
 
     /*aquí se podrían añadir clases,
